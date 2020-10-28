@@ -9,4 +9,4 @@ Right now, these 4 pages are a bit bare as the projects have not yet been done, 
 
 Through this website, I plan on documenting my progress during this course.
 
-Changes in design are likely in the future :))
+Currently outdated as projects are not linked to the pages.
